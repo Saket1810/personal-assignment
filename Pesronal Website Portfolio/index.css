@@ -9,7 +9,7 @@
 }
 
 header {
-    /* position: fixed ; */
+    position: fixed ; 
     /* top:0 ;
     right:0 ; */
     width:100%;
@@ -23,9 +23,9 @@ header {
 
 .navbar{
     display:flex;
-    margin-left: 10px;
-    margin-right: 10px;
-    justify-content: space-around;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    justify-content: space-between;
     width:30%;
     list-style:none ;
     padding-top:10px;
